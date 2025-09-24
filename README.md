@@ -4,7 +4,10 @@ You need root privileges to access `/sys/kernel/debug/kcov` and use the kernel's
 ```
  $ make
  # make install
- # vock <target program>
+ # vock [--kernel-src PATH (default: $HOME/linux)] \
+        [--vmlinux FILE (default: $HOME/linux/vmlinux] \
+        [--filter Keyword (File paths by keyword)] \
+        <target program>
 ```
 I am using `vock` with [virme-ng](https://github.com/arighi/virtme-ng) on a linux kernel that has CONFIG_KCOV and CONFIG_DEBUG_INFO enabled. This setup is the same as the one in the demo below.
 
